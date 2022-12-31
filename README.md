@@ -1,7 +1,7 @@
 # Real-time Image Style Transfer
 
 ## Description
-Style transfer is used to recomposing images (content images) in the style of other images (style images). The purpose of this project is to encourage Encourage innovative artistic creation. The potential use cases also include: video style transfer, VR in gaming and commercial art.
+Style transfer is used to recomposing images (content images) in the style of other images (style images). The purpose of this project is to encourage innovative artistic creation. The potential use cases also include: video style transfer, VR in gaming and commercial art.
 
 ## Set Up
 The system consists of a client, a server and a pretrained style transfer model. 
